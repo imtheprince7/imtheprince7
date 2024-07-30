@@ -1,17 +1,32 @@
-## Hi there 👋
+## Hi there !
 
-# Hi 👋! My name is Prince Kumar
-## I'm a Java developer intern from CDMSoftech Solution Pvt Ltd.
-### Technologies & Tools
-![Tech Stack](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Tech Stack](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
-![Tech Stack](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus)
-![Tech Stack](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Tech Stack](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![Tech Stack](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![Tech Stack](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazonaws)
-![Tech Stack](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Tech Stack](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes)
+<h1 align="center">Hi 👋! My name is <strong>Prince Kumar</strong> and I'm a Software Engineer from the Beautiful Country INDIA.</h1>
+## Technologies & Tools
+
+### Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Frameworks
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Java Swing](https://img.shields.io/badge/Java_Swing-5382A1?style=for-the-badge&logo=java&logoColor=white)
+
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Soft Skills
+- Effective Communication
+- Problem-Solving
+- Team Collaboration
+- Time Management
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 
 ### Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/imtheprince7)
