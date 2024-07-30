@@ -6,6 +6,7 @@
 - Passionate about Technology & Development
 - Love to work with EDA Technologies, Embedded System and Developement
 <br>
+
 ## Technologies & Tools
 | **Languages** | **Databases**  | **Frameworks**  | **Tools**  | **Soft Skills** |
 | --- | --- | --- | --- | --- |
