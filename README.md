@@ -1,5 +1,3 @@
-## Hi there !
-
 <h1 align="center">Hello Alien 👋! <br> My name is <strong>Prince Kumar</strong> and I'm a Software Engineer from the Beautiful Country INDIA.</h1>
 
 ## About Me
