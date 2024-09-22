@@ -42,12 +42,3 @@
 ## Most Used Languages
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imtheprince7&layout=compact&theme=dark)
 
-
-## My GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=imtheprince7&show_icons=true&theme=radical)
-
-
-## My Contribution Graph
-<div align="left">
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=imtheprince7&radius=16&theme=github-dark-dimmed&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
