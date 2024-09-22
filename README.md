@@ -38,13 +38,7 @@
 | [Todo App](https://github.com/imtheprince7/Todo-App) | [Bank Management System](https://github.com/imtheprince7/Bank-Management-System) |  | [JavaScript Learning](https://github.com/imtheprince7/JavaScript) ||
 | [Socket Programming](https://github.com/imtheprince7/Socket-Programming-in-C) | [SpringBoot API](https://github.com/imtheprince7/springBootAPI) |[ML Project](https://github.com/imtheprince7/Multimodal-emotion-recognition) |[springLearning](https://github.com/imtheprince7/springlearning) ||
 <br>
-<p>
-## Most Used Languages
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imtheprince7&layout=compact&theme=dark)
-</p>
-<p>
-## My GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=imtheprince7&show_icons=true&theme=radical)
-</p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imtheprince7&show_icons=true&locale=en&layout=compact" alt="imtheprince7" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imtheprince7&show_icons=true&locale=en" alt="imtheprince7" /></p>
