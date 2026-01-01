@@ -34,7 +34,7 @@
   - Led projects to **Architected validation workflows to reduce fraud by 15-20% and maintained system reliability for return policy operations**  
   - Lowered manual overhead by **95%**  
 
-- **☁️ Java Software Developer — Outlier (Aug 2023 – Feb 2025)**  
+- **☁️ Java Software Developer — CDMSoftech Solution Pvt Ltd.  (Aug 2023 – Feb 2025)**  
   - Developed production-grade Java applications and optimized SQL performance while leading code quality initiatives across cross-functional projects.
   - Gained exposure to **Cloud, AI/ML, Spring Boot, Hibernate**  
 
@@ -65,21 +65,6 @@
 - 📊 Built a platform for real-time visualizations from CSV uploads  
 - 📉 Reduced manual reporting time by **40%**  
 - ☁️ Configured deployment on remote server, minimizing lag by **70%** and ensuring uninterrupted access  
-
-### 📌 CreateGuard *(Google Colab, Matplotlib, Scikit, GitHub)* — Oct 2023  
-- 🌊 Visualized flood scenarios using Python libraries  
-- 📈 Predicted flood rates in prone areas with **88% accuracy**  
-- 🏆 Team project for **All India Women ONLY Hackathon’23**, ranked among **top 200 projects**  
-
-### 📌 Amigos *(Jupyter Notebook, VS Code)* — Nov 2022  
-- 🧠 Implemented ML model to predict user stress (**70% accuracy**)  
-- 💡 Suggested stress management solutions (**65% accuracy**)  
-- 🥉 Secured **3rd position** at *Innotech-22*  
-
-### 📌 NutriFIT *(MediaPipe, OpenCV, VS Code, PyCharm)* — Jul 2023 – Apr 2024  
-- 🎮 Contributed by creating **stress games** in Python  
-- 👁️ Trained model using **OpenCV + MediaPipe**  
-- 🧘 Collaborative Yoga Posture Detection System with **92% accuracy**  
 
 ---
 
